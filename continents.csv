@@ -1,18 +1,18 @@
-﻿Country;Continent
-United States;America
-Austria;Europe
-France;Europe
-Germany;Europe
-Sweden;Europe
-Finland;Europe
-Greece;Europe
-Romania;Europe
-Bulgaria;Europe
-Czech Republic;Europe
-Italy;Europe
-Netherlands;Europe
-Poland;Europe
-Spain;Europe
-United Kingdom;Europe
-Japan;Asia
-Russia;Asia
+﻿Country,Continent
+United States,America
+Austria,Europe
+France,Europe
+Germany,Europe
+Sweden,Europe
+Finland,Europe
+Greece,Europe
+Romania,Europe
+Bulgaria,Europe
+Czech Republic,Europe
+Italy,Europe
+Netherlands,Europe
+Poland,Europe
+Spain,Europe
+United Kingdom,Europe
+Japan,Asia
+Russia,Asia
